@@ -26,6 +26,8 @@ The Travel Activity Planner is a project aimed at providing personalized travel 
 - HTML, CSS, JavaScript
 
   ![image](https://github.com/sushu-99/Travel-Activity-Planner/assets/132267021/fe05e323-4ba8-4955-a938-544ed10ff8c9)
+  ![image](https://github.com/sushu-99/Travel-Activity-Planner/assets/132267021/e58ca234-e6a9-4f4b-9891-bfb894508664)
+  
 
 
 ## Usage
