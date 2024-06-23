@@ -25,6 +25,9 @@ The Travel Activity Planner is a project aimed at providing personalized travel 
 - Google Maps API
 - HTML, CSS, JavaScript
 
+  ![image](https://github.com/sushu-99/Travel-Activity-Planner/assets/132267021/fe05e323-4ba8-4955-a938-544ed10ff8c9)
+
+
 ## Usage
 
 To use the Travel Activity Planner, follow these steps:
